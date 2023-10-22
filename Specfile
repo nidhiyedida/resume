@@ -1,0 +1,11 @@
+VERSION 3.0.0
+
+INCLUDE preamble.tex
+CONFIG
+INCLUDE computeRole.py
+
+IMPORT
+BEGIN
+PARSE personalInfo
+PARSE summary
+PARSE skills

@@ -1,0 +1,24 @@
+{
+	"version": "2.0.0",
+	"personalInfo": {
+		"name": "Nidhi Yedida",
+		"contact": {
+			"email": "nidhiyedida@gmail.com",
+			"phone": ""
+		},
+		"links": []
+	},
+	"summary": "Aspiring student who is interested in software development.",
+	"education": [],
+	"employment": [],
+	"projects": [],
+	"publications": [],
+	"skills": [{
+		"name": "MySQL",
+		"type": "Databases"
+	}],
+	"honors": [],
+	"funding": [],
+	"service": []
+}
+
